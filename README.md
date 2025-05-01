@@ -1,3 +1,3 @@
 ### Martin Reid :computer:
 
-![](banner.jpg)
+Pracademic at Southampton Solent University
